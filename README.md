@@ -1,4 +1,4 @@
-Michael Rainer & Matthias Prieth presents 4GEWINNT (Foursquare)
+4GEWINNT (Foursquare) by Michael Rainer & Matthias Prieth
 
 Our first NodeJS network implementation for the game Foursquare (deu. VierGewinnt).
 This game can only be played via Local Area Network and not over the internet.
