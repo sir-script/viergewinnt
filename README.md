@@ -1,6 +1,6 @@
-4GEWINNT (Foursquare) by Michael Rainer & Matthias Prieth
+4GEWINNT (Connect Four) by Michael Rainer & Matthias Prieth
 
-Our first NodeJS network implementation for the game Foursquare (deu. VierGewinnt).
+Our first NodeJS network implementation for the game Connect Four (deu. VierGewinnt).
 This game can only be played via Local Area Network and not over the internet.
 
 For convenience, we have included the NodeJS portable version and also the 
